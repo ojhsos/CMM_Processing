@@ -1,0 +1,6 @@
+{
+  "name": "CMM 측정 데이터 분석 웹앱",
+  "description": "가공 부품 CMM 3차원 측정 텍스트 데이터 자동 파싱, 실시간 편차 시각화, 공차대 분석 및 엑셀 내보내기 솔루션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
